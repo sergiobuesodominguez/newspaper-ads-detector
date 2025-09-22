@@ -16,8 +16,6 @@ newspaper-ads-detector/
 └─ outputs/                # created at runtime
 ```
 
-## 🧑‍💻 Who is this for?
-**Non‑coders who just want to run it.** You only need to follow the steps below (copy/paste commands). No code editing required.
 
 ## 🚀 Quick Start
 1) **Download repo**: Click **Code → Download ZIP**, unzip.
