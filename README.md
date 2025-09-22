@@ -77,8 +77,6 @@ A: Yes. The Excel log will append new rows to the same file.
 
 ## 🔒 Licensing & Credits
 - Model: **Newspaper Navigator** via LayoutParser (Detectron2). See their licenses.
-- This repo is MIT licensed (change as you wish).
-
 ---
 
 ### Push to GitHub (one‑time)
