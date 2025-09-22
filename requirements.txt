@@ -1,0 +1,10 @@
+layoutparser>=0.3.4
+opencv-python>=4.10
+numpy>=1.26
+Pillow>=10.3
+pandas>=2.2
+PyMuPDF>=1.24
+torch==2.2.2
+torchvision==0.17.2
+# detectron2 is installed in the scripts (needs to match torch):
+# pip install 'git+https://github.com/facebookresearch/detectron2.git'
